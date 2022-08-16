@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\bin\Debug\netcoreapp3.1\nonAccessModifiers.exe
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\bin\Debug\netcoreapp3.1\nonAccessModifiers.deps.json
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\bin\Debug\netcoreapp3.1\nonAccessModifiers.runtimeconfig.json
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\bin\Debug\netcoreapp3.1\nonAccessModifiers.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\bin\Debug\netcoreapp3.1\nonAccessModifiers.dll
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\bin\Debug\netcoreapp3.1\nonAccessModifiers.pdb
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.dll
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.pdb
+C:\Users\lenovo\source\repos\nonAccessModifiers\nonAccessModifiers\obj\Debug\netcoreapp3.1\nonAccessModifiers.genruntimeconfig.cache
